@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/AWB/_Scenes/AWB.unity
-  isLoaded: 1
-  isActive: 1
